@@ -28,7 +28,7 @@ Implentation of Yolor algorithm on Our own created dataset named "EarthVision Sm
 | Total           | 71                 | 14                 | 85    |
 
 
-EarthVision Small-Scale Dataset available at Roboflow, the link to access the dataset is:  
+**For EarthVision Small-Scale Dataset, You can download the dataset directly by using this roboflow link:** https://app.roboflow.com/ds/o7vfc5ODBD?key=eVYmePCUq3  
 
 
 # Acknowledgment
